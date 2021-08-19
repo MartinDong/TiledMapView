@@ -55,7 +55,7 @@ public class TiledMapDemoActivity extends FragmentActivity {
      *
      * @see <a href="https://console.tianditu.gov.cn/api/key">Tianditu API key</a>
      */
-    public static String TIANDITU_KEY = "b34f09c6586e9741629c42f716b7494b"; // Only for test! Please apply for the key.
+    public static String TIANDITU_KEY = "41d757b88f2b8dd26ffe39ef7d1fe271"; // Only for test! Please apply for the key.
 
     public static final int REQUEST_CODE_PERMISSION = 100;
     public static final String TYPE = "type";
